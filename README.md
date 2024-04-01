@@ -1,3 +1,3 @@
 - 👋 Hola, soy @Hinoko
 - 👀 Me interesa aprende nuevas tecnologias 
-- 🌱 Actualmente estoy aprendiendo el lenguaje Java
+
