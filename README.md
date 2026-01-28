@@ -1,3 +1,2 @@
-- 👋 Hola, soy @Hinoko
-- 👀 Me interesa aprende nuevas tecnologias 
+👋 Hola, soy Joham Osorio
 
